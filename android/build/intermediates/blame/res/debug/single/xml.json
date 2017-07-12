@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-image-picker/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-image-picker/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-image-picker/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/work/Project/ytmallApp/ytmallApp/node_modules/react-native-image-picker/android/src/main/res/xml/provider_paths.xml"
+    }
+]
